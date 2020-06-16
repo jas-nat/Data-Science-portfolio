@@ -10,7 +10,7 @@ Hi everyone! I made a final project as a requirement for accomplishing data scie
 - Predict GPA using Linear Regression with 3 features
 - Predict average GPA using Logistic Regression with 4 features
 
-# [Project 2 Pedestrian Detection using YOLOv3 written in PyTorch] (https://github.com/jas-nat/PyTorch-YOLO-V3-KAIST)
+# [Project 2 Pedestrian Detection using YOLOv3 written in PyTorch](https://github.com/jas-nat/PyTorch-YOLO-V3-KAIST)
 
 Trying to apply YOLOv3 on [KAIST Pedestrian Dataset](https://soonminhwang.github.io/rgbt-ped-detection/). This project is part of my graduation research
 
