@@ -1,16 +1,20 @@
-## Predicting GPA based on Food Preferences
+# Jason's portolios
+List of all data science and machine learning projects
+
+# Project 1 Predicting GPA based on Food Preferences
 
 Hi everyone! I made a final project as a requirement for accomplishing data science course at Ritsumeikan University.
-
-You can use the [editor on GitHub](https://github.com/jas-nat/Data-Science-portfolio/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
 ### Objectives
 - Visualized the data
 - Cleaned the data
 - Predict GPA using Linear Regression with 3 features
 - Predict average GPA using Logistic Regression with 4 features
+
+# [Project 2 Pedestrian Detection using YOLOv3 written in PyTorch] (https://github.com/jas-nat/PyTorch-YOLO-V3-KAIST)
+
+Trying to apply YOLOv3 on [KAIST Pedestrian Dataset](https://soonminhwang.github.io/rgbt-ped-detection/). This project is part of my graduation research
+
+
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
