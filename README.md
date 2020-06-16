@@ -1,10 +1,16 @@
-## Welcome to GitHub Pages
+## Predicting GPA based on Food Preferences
+
+Hi everyone! I made a final project as a requirement for accomplishing data science course at Ritsumeikan University.
 
 You can use the [editor on GitHub](https://github.com/jas-nat/Data-Science-portfolio/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### Objectives
+- Visualized the data
+- Cleaned the data
+- Predict GPA using Linear Regression with 3 features
+- Predict average GPA using Logistic Regression with 4 features
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
